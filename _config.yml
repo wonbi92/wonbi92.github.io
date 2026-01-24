@@ -226,6 +226,10 @@ content:
         문제 해결을 위해 고민했던 아티클입니다.
         
         **Study Article**<br>
+        - 숏폼 비디오 피드를 구현하며 재생/루프/리소스 관리 등 사용자 경험과 성능을 함께 고려한 구현 과정을 정리했습니다.
+            - [숏폼 비디오 구현기](https://velog.io/@wonbi92/%EC%88%8F%ED%8F%BC-%EB%B9%84%EB%94%94%EC%98%A4-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
+        - SwiftUI에서 ObservableObject를 어떤 생명주기로 관리해야 하는지 이해하기 위해 @ObservedObject와 @StateObject의 차이를 비교/분석했습니다.
+            - [@ObservedObject vs @StateObject 비교 분석](https://velog.io/@wonbi92/ObservedObject-vs-StateObject)
         - Frame과 Bounds의 차이를 정확히 이해하고자 ToyApp을 제작해 두 값의 차이점을 직접 비교해 보았습니다.
             - [frame vs bounds](https://velog.io/@wonbi92/iOS-frame-vs-bounds)
             - [Bounds의 origin값 변경해 보기](https://velog.io/@wonbi92/iOS-bounds%EC%9D%98-origin)
@@ -235,6 +239,8 @@ content:
             - [Swift의 다형성과 성능](https://velog.io/@wonbi92/Swift%EC%9D%98-%EB%8B%A4%ED%98%95%EC%84%B1-%EA%B5%AC%ED%98%84%EA%B3%BC-%EC%84%B1%EB%8A%A5)
             
         **Trouble Shooting**<br>
+        - 화면/도메인 전반에서 발생하는 상태 불일치 문제를 해결하기 위해 SSOT(단일 진실 공급원) 기반 Store 패턴을 도입한 과정을 정리했습니다.
+            - [SSOT 적용기](https://velog.io/@wonbi92/Store%EB%9D%BC%EB%8A%94-%EC%9D%B4%EB%A6%84%EC%9D%98-SSOT%EB%A5%BC-%EB%A7%8C%EB%93%A4%EA%B2%8C-%EB%90%9C-%EA%B3%84%EA%B8%B0)
         - [RxSwift에 대응하는 네트워크 세션 만들기](https://velog.io/@wonbi92/iOS-RxSwift%EC%97%90-%EB%8C%80%EC%9D%91%ED%95%98%EB%8A%94-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%84%B8%EC%85%98-%EB%A7%8C%EB%93%A4%EA%B8%B0)
         - [Test Double을 이용한 URLSession Unit Test](https://velog.io/@wonbi92/Temp-Title-g9d5xp08)
         
